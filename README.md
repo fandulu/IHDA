@@ -61,6 +61,6 @@ The code is distributed under the MIT License. See `LICENSE` for more informatio
 ```
 
 <!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements (parts of our code are heavily borrowed from)
+## Acknowledgements (parts of our code are borrowed from)
 * [Tiny Person re-id](https://github.com/lulujianjie/person-reid-tiny-baseline)
 * [Cross-Modal-Re-ID-baseline](https://github.com/mangye16/Cross-Modal-Re-ID-baseline)
