@@ -27,23 +27,32 @@ We provide a set of trained models available for download in
 Please download them and put them under ```save_model/```  
 
 ## Getting Started
-### Installation
+### Running Environment
 The code was tested on Ubuntu 18.04, with Anaconda Python 3.6 and PyTorch v1.1.0.
 
-You may need to install requirements.txt by
-```sh
-pip3 install requirements.txt
-```
-### Run code
+### Datasets
+We have datasets of PKU-Sketch and QMUL-Shoes ready under ```processed_data/```. 
+
+For PKU-Sketch dataset, you do not need any process.
+For QMUL-Shoes dataset, please unzip files under ```processed_data/sbir/```.
+
+Note that, 
+
+
+### Run Testing
+Run Testing.ipynb to test the result.
+
+### Run Training
+#### PKU-Sketch data
+1. Run train_market.py (download market dataset first)
+
+
 1. Download data and put them to /data folder
 2. Download [model weight](https://drive.google.com/open?id=1AGo6qc1xOiC-DnY0K1Xx824uB9F3Mwzp) and put it to /reid folder
 3. Run pano_detector.ipynb to generate and save 2D detection boxes.
 4. Run tracking.ipynb to generate and save tracking links (we will update the tracker from DeepSort to ours later).
-5. Run generate_video.ipynb to generate visulation videos.
+5. 
 
-## Demos:
-![](pictures/tracking_1.gif)
-![](pictures/tracking_2.gif)
 
 <!-- LICENSE -->
 ## License
