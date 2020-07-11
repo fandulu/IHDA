@@ -4,7 +4,7 @@
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-* [Dataset Download Link](#dataset-download-link)
+* [Model Download Link](#model-download-link)
 * [Getting Started](#getting-started)
   * [Installation](#installation)
   * [Run code](#run-code)
@@ -18,12 +18,13 @@ Although sketch-to-photo retrieval has a wide range of applications, it is costl
 
 
 
-## Dataset Download Link:
+## Model Download Link:
+We provide a set of trained models available for download in
   [zap.t](https://drive.google.com/file/d/1a0-lCtSdge8G1H7ST_gb94FDbxLYSNdh/view?usp=sharing)
   [market.t](https://drive.google.com/file/d/19PXvFFdhffJeog2h_3eBe7oqRNH1vv0c/view?usp=sharing)
   [pku_best_96.t](https://drive.google.com/file/d/1dAm18J9EKI4HnbuwAsm79iLaO1xjhux0/view?usp=sharing)
   [sbir_best_69.t](https://drive.google.com/file/d/1tY085_l-8c4ufjZrHKeKtBkAzNAdApLe/view?usp=sharing)
-  
+Please download them and put them under ```save_model/```  
 
 ## Getting Started
 ### Installation
