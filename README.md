@@ -33,10 +33,12 @@ The code was tested on Ubuntu 18.04, with Anaconda Python 3.6 and PyTorch v1.1.0
 ### Datasets
 We have datasets of PKU-Sketch and QMUL-Shoes ready under ```processed_data/```. 
 
-For PKU-Sketch dataset, you do not need any process.
-For QMUL-Shoes dataset, please unzip files under ```processed_data/sbir/```.
+For PKU-Sketch dataset, just use the existing files for evaluation.
+Note that, we take 10-time cross-validation for PKU-Sketch dataset, the dataset we offered is one of the splittings.
+To randomly generate new splittings, you need to download [PKU-Sketch dataset](https://www.pkuml.org/resources/pkusketchreid-dataset.html),  set the corresponding path in ```config/config_pku.py```, and then run ```processed_data/pre_process_pku.py```.
 
-Note that, 
+For QMUL-Shoes dataset, please unzip files under ```processed_data/sbir/```. 
+
 
 
 ### Run Testing
@@ -60,12 +62,7 @@ The code is distributed under the MIT License. See `LICENSE` for more informatio
 
 ## Citation
 ```
-@inproceedings{yang2020mplt,
-  title={Using panoramic videos for multi-person localization and tracking in a 3D panoramic coordinate},
-  author={Fan Yang, Feiran Li, Yang Wu, Sakriani Sakti, and Satoshi Nakamura},
-  booktitle={International Conference on Acoustics, Speech, and Signal Processing},
-  year={2020}
-}
+
 ```
 
 <!-- ACKNOWLEDGEMENTS -->
