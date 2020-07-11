@@ -50,7 +50,12 @@ The code is distributed under the MIT License. See `LICENSE` for more informatio
 
 ## Citation
 ```
-TBA
+@article{yang2020instance,
+  title={Instance-level Heterogeneous Domain Adaptationfor Limited-labeled Sketch-to-Photo Retrieval},
+  author={Yang, Fan and Wu, Yang and Wang, Zheng and Li, Xiang and Sakti, Sakriani and Nakamura, Satoshi},
+  journal={IEEE Transactions on Multimedia},
+  year={2020}
+}
 ```
 
 <!-- ACKNOWLEDGEMENTS -->
