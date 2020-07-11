@@ -36,10 +36,13 @@ Run ```Testing.ipynb``` to test the result.
 1. Run ```train_market.py``` (download Market1501 dataset and set the corresponding path in ```config/config_market.py``` first).
 2. Run ```train_pku_market.py``` (you can skip step 1 if use the pretrained model market.t)
 
+The rank-1 performance may reach 96%, which is much higher than our paper reported, but do take more splitting and training to get an overall performance.
+
 #### Training QMUL-Shoes
 1. Run ```train_zap.py``` (download Zap50k dataset and set the corresponding path in ```config/config_zap.py``` first).
 2. Run ```train_zap_sbir.py``` (you can skip step 1 if use the pretrained model zap.t)
 
+The rank-1 performance may be between 64%-69%, which is unstable from one machine to another, but the overall performance should be beter than others.
 
 <!-- LICENSE -->
 ## License
