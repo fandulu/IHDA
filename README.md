@@ -1,6 +1,6 @@
 ![GitHub license](https://img.shields.io/github/license/fandulu/IHDA)
 ![GitHub issues](https://img.shields.io/github/issues/fandulu/IHDA)
-
+![GitHub last-commit](https://img.shields.io/github/last-commit/fandulu/IHDA)
 
 # Instance-level Heterogeneous Domain Adaptation for Limited-labeled Sketch-to-Photo Retrieval
 
