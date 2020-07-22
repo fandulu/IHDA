@@ -1,4 +1,5 @@
-https://img.shields.io/apm/l/vim-mode
+[![PyPI license](https://img.shields.io/github/license/fandulu/IHDA)]
+
 
 # Instance-level Heterogeneous Domain Adaptation for Limited-labeled Sketch-to-Photo Retrieval
 
