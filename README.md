@@ -1,4 +1,4 @@
-[![PyPI license](https://img.shields.io/github/license/fandulu/IHDA)]
+(https://img.shields.io/github/license/fandulu/IHDA)]
 
 
 # Instance-level Heterogeneous Domain Adaptation for Limited-labeled Sketch-to-Photo Retrieval
