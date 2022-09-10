@@ -2,6 +2,8 @@
 ![GitHub issues](https://img.shields.io/github/issues/fandulu/IHDA)
 ![GitHub last-commit](https://img.shields.io/github/last-commit/fandulu/IHDA)
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/instance-level-heterogeneous-domain/image-retrieval-on-pku-sketchre-id-dataset)](https://paperswithcode.com/sota/image-retrieval-on-pku-sketchre-id-dataset?p=instance-level-heterogeneous-domain)
+
 # Instance-level Heterogeneous Domain Adaptation for Limited-labeled Sketch-to-Photo Retrieval
 
 ## About this work [pdf](https://github.com/fandulu/IHDA/blob/master/pictures/paper.pdf)
